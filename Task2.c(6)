@@ -1,0 +1,36 @@
+#include<stdio.h>
+int main() {
+    
+int a = -5, b = 10;
+if (a > 0 || b > 0) {
+    printf("At least one number is positive\n");
+}
+}
+At least one number is positive
+
+
+=== Code Execution Successful ===
+#include<stdio.h>
+int main() {
+    int a = -5, b = 10;
+
+if (a > 0 || b > 0) {
+    printf("At least one number is positive\n");
+}
+}
+At least one number is positive
+
+
+=== Code Execution Successful ===
+#include<stdio.h>
+int main() {
+int a = 0;
+
+if (!a) {
+    printf("a is zero (false), so !a is true\n");
+}
+}
+a is zero (false), so !a is true
+
+
+=== Code Execution Successful ===
