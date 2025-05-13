@@ -11,3 +11,10 @@ int main()
     shridevi();
     return 0;
 }
+farseen
+date of birth
+age
+mobilenum
+
+
+=== Code Execution Successful ===
